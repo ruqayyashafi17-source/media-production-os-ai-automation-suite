@@ -1,5 +1,11 @@
+![Media Production OS Logo](Media%20Production%20OS%20Logo.png)
+
 # Media Production OS — AI & Automation Suite
 
+**AI-Powered Media Production & Operations Management System**
+
+---
+# Media Production OS — AI & Automation Suit
 An AI-powered media production and operations management system designed to streamline production workflows, staff operations, commercial script generation, rate calculations, and advertiser onboarding.
 
 ## Features
