@@ -14,7 +14,7 @@ async function generateAIScript() {
 
   try {
     // Standard n8n Webhook Endpoint
-    var response = await fetch("http://localhost:5678/webhook/script-generator", {
+    var response = await fetch("http://localhost:5678/webhook-test/script-generator", {
       method: "POST",
       headers: { 
         "Content-Type": "application/json"
